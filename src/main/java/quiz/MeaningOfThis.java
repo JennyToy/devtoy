@@ -8,7 +8,7 @@ import lombok.extern.slf4j.Slf4j;
  *
  *
  * @author
- * @since 2018. 12. 18.
+ * @since
  */
 @Slf4j
 public class MeaningOfThis {
